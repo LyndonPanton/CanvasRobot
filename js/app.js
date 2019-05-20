@@ -36,7 +36,17 @@
 	context.lineTo(550, 340);
 	context.fill();
 
-	
+	// Leg Left
+	drawPolygon(440, 290, 90, 180, 15, "orange");
+
+	// Leg right
+	drawPolygon(340, 525, 90, 180, 345, "orange");
+
+	// Foot Left
+	drawPolygon(304, 560, 95, 50, 0, "brown");
+
+	// Foot Right
+	drawPolygon(503, 560, 95, 50, 0, "brown");
 
 	function drawPolygon(xStart, yStart, xLength, yLength, rotation, colour) {
 		context.save();
