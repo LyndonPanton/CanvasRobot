@@ -18,4 +18,4 @@
 
 ## Preview
 ![Screenshot 1](./img/screenshot1.png)
-![Screenshot 2](./img/screenhot2.png)
+![Screenshot 2](./img/screenshot2.png)
